@@ -2,3 +2,9 @@ h1 {
   font-size: 5rem;
   color: blueviolet;
 }
+
+p {
+  font-size: 2rem;
+  color: cadetblue;
+  padding: 1rem;
+}
